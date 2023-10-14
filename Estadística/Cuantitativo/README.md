@@ -3,7 +3,7 @@
 Se encuentra las distintas rutinas que se utilizaron para el análisis cuantitativo desde las herramientas usadas en Excel, hasta los programas realizados en Python. 
 
 ## Prueba t de Student
-Para la prueba se utiliza el análisis de datos de Excel usando la opción de prueba t para muestras dependientes con un $alpha$ de 0.05.
+Para la prueba se utiliza el análisis de datos de Excel usando la opción de prueba t para muestras dependientes con un &alpha; de 0.05.
 
 ## Análisis de sentimientos
 El código para el análisis de sentimientos de los comentarios antes del uso de pulsos binaurales se encuentra en "sentimientos.py". 
