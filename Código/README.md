@@ -4,6 +4,7 @@ Se encuentra el código para el módulo generador utilizado para el estudio del 
 Para utilizar el código exportador de pulsos binaurales se necesita la librería.
 - AccelBrainBeat
 - Pydub 
+
 Además, se necesita descargar FFmpeg. 
 
 Nota: la variable ruta utiliza la dirección en donde se encuentra instalado FFmpeg. 
