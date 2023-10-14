@@ -19,7 +19,7 @@ El código se encuentra dividido en tres secciones:
 
 **2. Código secundario, reproducción del pulso binaural constante.** Para utilizar esta parte del código se necesita instalar la librería [threading](https://pypi.org/project/threaded/) con el fin de usar programación multihilo. Necesita que se indique la frecuencia del canal izquierdo y derecho.
 
-**3. Extra, verificación de las frecuencias centrales.** En esta rutina se utilizan las librerías numpy, matplotlib y [scipy](https://pypi.org/project/scipy/). Se grafica la forma de onda y la transformada rápida de Fourier para observar las frecuencias centrales del pulso con y sin pista moduladora.
+**3. Extra, verificación de las frecuencias centrales.** En esta rutina se utilizan las librerías numpy, matplotlib y [scipy](https://scipy.org/install/). Se grafica la forma de onda y la transformada rápida de Fourier para observar las frecuencias centrales del pulso con y sin pista moduladora.
 
 ## Código pulsos binaurales rutina
 El código consiste en la exportación de un ciclo del sueño a la vez, teniendo un total de cinco ciclos. Se debe especificar que ciclo se quiere exportar por medio de la variable "stage_durations". Cada ciclo se encuentra constituido por las etapas N1, N2, N3, N4 y REM. 
