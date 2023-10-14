@@ -16,6 +16,7 @@ Para utilizar la verificación de las frecuencias centrales es necesario que se 
 
 ## Código pulsos binaurales constantes
 El código se encuentra dividido en tres secciones:
+
 **1. Código principal, exportación del pulso binaural.** En esta rutina se exporta el pulso binaural a la carpeta donde se encuentra actualmente el código. Necesita que se indique la frecuencia del canal izquierdo, derecho y la duración del audio en minutos.
 
 **2. Código secundario, reproducción del pulso binaural constante.** Para utilizar esta parte del código se necesita instalar la librería [threading](https://pypi.org/project/threaded/) con el fin de usar programación multihilo. Necesita que se indique la frecuencia del canal izquierdo y derecho.
