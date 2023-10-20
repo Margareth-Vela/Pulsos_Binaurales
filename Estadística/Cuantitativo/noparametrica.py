@@ -1,10 +1,10 @@
 from scipy.stats import wilcoxon
 
-# Supongamos que tienes dos conjuntos de datos: datos_con_pulsos y datos_sin_pulsos
+# Conjuntos de datos: datos_con_pulsos y datos_sin_pulsos
 datos_con_pulsos = [0.99, 0.99, 0.99, 0.96, 0.99, 1, 1]
 datos_sin_pulsos = [0.99, 0.81, 0.98, 0.97, 0.98, 0.99, 0.99]
 
-# Supongamos que tienes un DataFrame llamado 'df' con las columnas 'ConPulsos' y 'SinPulsos'
+#Prueba de wilcoxon
 stat, p_value = wilcoxon(datos_con_pulsos, datos_sin_pulsos)
 
 print(f"Estadístico de la prueba de Wilcoxon: {stat}")

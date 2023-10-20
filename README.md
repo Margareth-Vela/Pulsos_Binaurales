@@ -1,7 +1,7 @@
 # Pulsos Binaurales
 Repositorio de trabajo de graduación "Análisis cualitativo y cuantitativo del impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas"
 
-Este trabajo se centró en llevar a cabo un análisis estadístico para discernir el impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas. Se desarrolló un módulo generador de pulsos binaurales desarrollado en años anteriores, adaptándolo a las especificaciones de cada estudio. Asimismo, se realizó un protocolo de investigación y consentimiento informado específico para cada estudio.
+Este trabajo se centró en llevar a cabo un análisis estadístico para discernir el impacto de los pulsos binaurales en el estado de ánimo, concentración y calidad del sueño de las personas. Se mejoró un módulo generador de pulsos binaurales desarrollado en años anteriores, adaptándolo a las especificaciones de cada estudio. Asimismo, se realizó un protocolo de investigación y consentimiento informado específico para cada estudio.
 El análisis cualitativo se apoyó en cuestionarios completados por los sujetos antes y después de las pruebas experimentales, tanto con la presencia como en la ausencia de pulsos binaurales. Paralelamente, el análisis cuantitativo consistió en la recopilación de resultados de pruebas de concentración y comentarios proporcionados por los sujetos.
 
 ## Índice 
