@@ -62,6 +62,7 @@ Descargar el framework en el siguiente enlace: https://ffmpeg.org/download.html
       - Consentimiento para el estudio del sueño
    - Protocolo de investigación
    - Manual de usuario para la conexión entre la Cyton Board y el Electro-Cap desde OpenBCI
+   - Colección de videos y cuentos cortos utilizados para el estudio del estado de ánimo
      
 **3. Estadística**
    - Carpeta de análisis cualitativo

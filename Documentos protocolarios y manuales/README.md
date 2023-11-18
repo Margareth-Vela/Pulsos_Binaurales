@@ -18,3 +18,6 @@ En ambos consentimientos informados se encuentra la siguiente estructura:
 ## Manual de usuario
 Se encuentra el manual para la conexión entre la _Cyton Board_ con el Electro-Cap. Se menciona tanto el equipo a utilizar, como la conexión con la placa. 
 También se menciona la conexión con la interfaz de OpenBCI y los cambios en las configuraciones de _hardware_. 
+
+## Colección de videos y lecturas cortas
+Se encuentra el listado de videos y lecturas cortas clasificados según la emoción predominante. Los videos fueron utilizados para obtener los datos de control, mientras que las lecturas se usaron para determinar el cambio con pulsos binaurales. El estudio solamente clasificó datos de las siguientes emociones: tristeza, alegría/amor, frustración y miedo. 

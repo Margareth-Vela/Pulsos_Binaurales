@@ -1,2 +1,8 @@
+Los audios se encuentran en archivos comprimidos. Los audios de concentración son ejemplos de las frecuencias que se pueden 
+utilizar, sin embargo, el usuario puede definir las frecuencias y exportarlo con el código provisto. Los audios del ciclo 
+del sueño se encuentran divididos en 5 ciclos ideales del sueño. Si se quisiera probar alguna otra rutina se tiene que exportar 
+desde el código provisto, sin embargo, los audios que se encuentran compartidos en el enlace ya presentan la rutina ideal del 
+sueño de una persona que duerme en total una cantidad de 8 horas. 
+
 Audios concentración:https://drive.google.com/drive/folders/1sGDsWGcPOKADA6LZSFfn5XaQVNro13b4?usp=sharing 
 Audios ciclo del sueño: https://drive.google.com/drive/folders/18A9IKdz2muXlMVVdSVvtlbTjBaRrS0EG?usp=sharing
