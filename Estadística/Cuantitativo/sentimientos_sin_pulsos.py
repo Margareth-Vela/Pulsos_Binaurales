@@ -11,7 +11,7 @@ sia = SentimentIntensityAnalyzer()
 translator = Translator()
 
 #Leer archivo csv
-df_es = pd.read_csv('comentarios.csv', encoding='utf-8')
+df_es = pd.read_csv('comentariosSinPulsos.csv', encoding='utf-8')
 
 # Traducir los comentarios a inglés
 df_es['comentario_ingles'] = df_es['comentario'].apply(lambda x: translator.translate(x, src='es', dest='en').text)
