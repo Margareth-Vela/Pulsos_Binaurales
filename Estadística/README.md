@@ -1,7 +1,7 @@
 # Estadística para el estudio del impacto de los pulsos binaurales del estado de ánimo, concentración y calidad del sueño de las personas
 
 ## Análisis cualitativo 
-Para el análisis cualitativo se utiliza un cuestionario para antes y después de las pruebas con el fin de poder obtener la retroalimentación y la perspectiva general del uso de pulsos binaurales de los sujetos de prueba. Este análisis utiliza los datos recolectados para medir el cambio en el estado de ánimo, así como la perspectiva del uso de pulsos durante las pruebas de concentración y las pruebas de sueño. Para poder visualizar los resultados se realizaron gráficos de barra, así como la herramienta de tablas dinámicas en Microsoft Excel.  
+Para el análisis cualitativo se utiliza un cuestionario para antes y después de las pruebas con el fin de poder obtener la retroalimentación y la perspectiva general del uso de pulsos binaurales de los sujetos de prueba. Este análisis utiliza los datos recolectados para medir el cambio en el estado de ánimo, así como la perspectiva del uso de pulsos durante las pruebas de concentración y las pruebas de sueño. Para poder visualizar los resultados se realizaron gráficos de barra, así como la herramienta de tablas dinámicas en Microsoft Excel. En el archivo [.xlsm](https://github.com/Margareth-Vela/Pulsos_Binaurales/blob/main/Estad%C3%ADstica/Cualitativo/Valoraci%C3%B3n%20del%20impacto%20de%20los%20pulsos%20binaurales.xlsm) en la primera hoja se presenta el botón para actualizar todos los resultados del documento, pero se deben agregar en la hoja llamada "Data completa".
 
 <p align="center">
 <img src="https://github.com/Margareth-Vela/Pulsos_Binaurales/blob/main/Im%C3%A1genes/CuestionarioEstado.png" alt="Cuestionario estado" width="400px">
