@@ -10,7 +10,7 @@ sia = SentimentIntensityAnalyzer()
 # Configurar Traductor
 translator = Translator()
 
-#Leer archivo csv
+#Leer archivos csv
 df_es_sin_pulsos = pd.read_csv('comentariosSinPulsos.csv', encoding='utf-8')
 df_es_con_pulsos = pd.read_csv('comentariosPulsos.csv', encoding='utf-8')
 
@@ -89,7 +89,10 @@ print("Análisis de Sentimientos Pruebas de Estado de Ánimo (Frustración):")
 print("Máximo valor:", df_es_con_pulsos['polaridad_frustracion'].max())
 print("Mínimo valor:", df_es_con_pulsos['polaridad_frustracion'].min())
 print("Valor medio:", df_es_con_pulsos['polaridad_frustracion'].mean())
-# Visualizar distribución de sentimientos
+
+#-----------------------------------------------------------------
+# Visualizar distribución de sentimientos Pruebas Aritméticas
+#-----------------------------------------------------------------
 # Establecer el estilo de seaborn
 sns.set(style="whitegrid")
 
@@ -109,9 +112,9 @@ axes[1].set_title('Polaridad con pulsos binaurales para pruebas aritméticas', w
 # Ajustar el espacio entre subgráficos
 plt.tight_layout()
 
-# Mostrar la figura
-#plt.show()
-
+#---------------------------------------------------------------------------
+# Visualizar distribución de sentimientos Pruebas Estado de Ánimo: Alegría
+#---------------------------------------------------------------------------
 # Establecer el estilo de seaborn
 sns.set(style="whitegrid")
 
@@ -131,9 +134,9 @@ axes[1].set_title('Polaridad con pulsos binaurales para pruebas de estado de án
 # Ajustar el espacio entre subgráficos
 plt.tight_layout()
 
-# Mostrar la figura
-#plt.show()
-
+#---------------------------------------------------------------------------
+# Visualizar distribución de sentimientos Pruebas Estado de Ánimo: Tristeza
+#---------------------------------------------------------------------------
 # Establecer el estilo de seaborn
 sns.set(style="whitegrid")
 
@@ -153,9 +156,9 @@ axes[1].set_title('Polaridad con pulsos binaurales para pruebas de estado de án
 # Ajustar el espacio entre subgráficos
 plt.tight_layout()
 
-# Mostrar la figura
-#plt.show()
-
+#---------------------------------------------------------------------------
+# Visualizar distribución de sentimientos Pruebas Estado de Ánimo: Frustración
+#---------------------------------------------------------------------------
 # Establecer el estilo de seaborn
 sns.set(style="whitegrid")
 
