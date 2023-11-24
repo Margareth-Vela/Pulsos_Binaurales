@@ -29,7 +29,7 @@ La segunda prueba realizada es la prueba de Toulouse-Pieron que se encuentra en 
 <img src="https://github.com/Margareth-Vela/Pulsos_Binaurales/blob/main/Im%C3%A1genes/tolouse_pieron_test.png" alt="Prueba aritmética" width="600px">
 </p>
 
-La tercera prueba consiste en 30 minutos realizando alguna actividad que requiera concentración como tareas o trabajo. Teniendo 15 minutos con ruido rosa y 15 minutos con ruido rosa mezclado con pulsos binaurales. Esto con el fin de poder mitigar el ruido externo y mantener las pruebas de concentración, lo más delimitadas posibles. 
+La tercera prueba consiste en 30 minutos realizando alguna actividad que requiera concentración como tareas o trabajo. Teniendo 15 minutos sin ruido rosa y 15 minutos con ruido rosa mezclado con pulsos binaurales. Esto con el fin de poder mitigar el ruido externo y mantener las pruebas de concentración, lo más delimitadas posibles. 
 
 ### Pruebas de estado de ánimo
 Las pruebas de estado de ánimo consistieron en la visualización de videos con el fin de obtener un dato de control de la percepción de la emoción y la lectura de cuentos cortos que presentara la misma emoción predominante que el video visto, pero aplicando pulsos binaurales para obtener el cambio en la percepción de la emoción. Para ello se realizó una colección de videos y cuentos cortos que se fueron variando según la emoción en cada sujeto de prueba para poder obtener mediciones lo más parciales posibles. 
