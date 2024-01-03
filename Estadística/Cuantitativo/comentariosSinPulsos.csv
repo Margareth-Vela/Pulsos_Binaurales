@@ -1,17 +1,14 @@
-﻿comentario aritmetica,comentario alegria,comentario tristeza,comentario frustracion
-Frustrado,Alegria,"Lloro, mucha tristeza",Risa y alegria
-Frustrado,Alegria y nostalgia por los videos,Bastante tristeza,Frustrado y enojado
-Más aburrido,"Alegria leve, se miraba (gestos) que estaba feliz","mucha tristeza, nostalgia, miedo. tristeza leve y ansiedad",
-Tranquilo,Alegría leve,bastante tristeza y nostalgia,
-Cansado,Alegría,,
-Estresado,Alegría pero en un nivel bajo,,
-Estresado,,,
-Tranquilo,,,
-Estresado,,,
-Estresado,,,
-Tranquilo,,,
-"alegre, emocionada",,,
-"tranquila, un poco estresada",,,
-un poco estresada,,,
-un poco estresado y aburrido,,,
-"frustrado, un poco estresado",,,
+﻿comentario concentracion sin ruido,comentario concentracion ruido rosa,comentario estado sin ruido,comentario estado ruido rosa,comentario alegria,comentario tristeza,comentario frustracion
+Frustrado,"alegre, emocionada",Relajado,"tranquila, relajada",Alegria,"Lloro, mucha tristeza",Risa y alegria
+Frustrado,"tranquila, un poco estresada",Emocionado,"tranquila, relajada",Alegria y nostalgia por los videos,Bastante tristeza,Frustrado y enojado
+Más aburrido,un poco estresada,Tranquilo,relajada,"Alegria leve, se miraba (gestos) que estaba feliz","mucha tristeza, nostalgia, miedo. tristeza leve y ansiedad",
+Tranquila,un poco estresado y aburrido,Relajada,tranquilo,Alegría leve,bastante tristeza y nostalgia,
+Alterado,"frustrado, un poco estresado",Tranquilo,"tranquilo, aunque algo ansioso",Alegría,,
+Cansado,,Confiado (tranquilo),,Alegría pero en un nivel bajo,,
+Estresado,,Despejado (tranquilo),,,,
+Estresada,,,,,,
+Tranquilo,,,,,,
+Estresado,,,,,,
+Tranquilo,,,,,,
+Estresada,,,,,,
+Tranquilo,,,,,,
